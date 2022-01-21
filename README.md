@@ -9,6 +9,6 @@ Welcome To The Cum Zone,
 Heir To The Cum Throne,
 Your Cum Wont Last
 
-Will be updated to 1.12 soon, with a new disc being added.
+Will be updated to 1.12 soon.
 
 Fair warning, I have no expreience with GitHub as of writing this so the structure of this repository will be awful.
