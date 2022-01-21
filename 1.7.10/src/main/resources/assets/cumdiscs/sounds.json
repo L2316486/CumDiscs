@@ -1,0 +1,29 @@
+{
+  "records.HeirToTheCumThrone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/heirtothecumthrone",
+        "stream": true
+      }
+    ]
+  },
+  "records.WelcomeToTheCumZone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/welcometothecumzone",
+        "stream": true
+      }
+    ]
+  },
+  "records.YourCumWontLast": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/yourcumwontlast",
+        "stream": true
+      }
+    ]
+  }
+}
