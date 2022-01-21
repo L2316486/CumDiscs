@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cumdiscs",
+  "name": "CumDiscs",
+  "description": "Quality Music Discs",
+  "version": "1.12.2-Main",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/L2316486/CumDiscs",
+  "updateUrl": "",
+  "authorList": ["L2316486"],
+  "credits": "OblivionFall & Infected Mushroom for the music.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
